@@ -1,0 +1,50 @@
+.icons{
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+   
+  
+}
+body{
+     background-image: url(./images/initiascreen.png);
+     background-size: cover;
+}
+.agent {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 100px;
+    color: transparent;
+   
+}
+.sova{
+ 
+    background-image: url(https://vgraphs.com/images/agents/sova-avatar.jpg);
+    background-size: cover;
+}
+.sage{
+    background-image: url(https://vgraphs.com/images/agents/sage-avatar.jpg);
+    background-size: cover;
+}
+.astra {
+    background-image: url(./images/astraicon.png);
+    background-size: cover;
+}
+.brim {
+    background-image: url(https://vgraphs.com/images/agents/brimstone-avatar.jpg);
+    background-size: cover;
+}
+.phonix {
+    background-image: url(https://vgraphs.com/images/agents/phoenix-avatar.jpg);
+    background-size: cover;
+}
+.breach {
+    background-image: url(https://vgraphs.com/images/agents/breach-avatar.jpg);
+    background-size: cover;
+}
+
+.jett {
+    background-image: url(https://vgraphs.com/images/agents/jett-avatar.jpg);
+    background-size: cover;
+}
